@@ -4,7 +4,8 @@ I am Kristof, a freelance software engineer from Belgium.
 
 ### 💡Main interests:
 
-* Software Engineering
+* Software Engineering: development, testing, architecture, maintainability
+* Domain-driven Design and Hexagonal Architecture
 * System Design and Scalability
 * Cloud Infrastructure
 * Cybersecurity

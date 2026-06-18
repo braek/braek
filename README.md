@@ -7,6 +7,7 @@ I am Kristof, a freelance software engineer from Belgium.
 * Software Engineering
 * System Design and Scalability
 * Cloud Infrastructure
+* Cybersecurity
 * Home Automation (KNX/Raspberry Pi)
 * Hiking/Biking/Walking
 * Travelling

@@ -6,10 +6,12 @@ I am Kristof, a freelance software engineer from Belgium.
 
 * Software Engineering
 * System Design and Scalability
-* Home Automation
+* Cloud Infrastructure
+* Home Automation (KNX/Raspberry Pi)
 * Hiking/Biking/Walking
+* Travelling
 * Cooking as Hobby Chef 👨‍🍳
-* Building LEGO trains, cities and castles with my son 🧱
+* Building LEGO© trains, cities, pirate ships and castles with my son 🧱
 
 ### 🧠 Knows about:
 
@@ -27,4 +29,6 @@ I am Kristof, a freelance software engineer from Belgium.
 ![Scalability](https://img.shields.io/badge/scalability-blue?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-blue?style=for-the-badge)
+![KNX](https://img.shields.io/badge/knx-blue?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/raspberry-pi-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-blue?style=for-the-badge)
